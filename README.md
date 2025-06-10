@@ -471,8 +471,8 @@
         </form>
         <p class="text-center text-gray-700 mt-4 mb-12">Or reach me at: <a href="mailto:nh.maheshwari@gmail.com" class="text-teal-600 hover:underline">nh.maheshwari@gmail.com</a> | <a href="https://www.linkedin.com/in/nehamaheshwari-corporatetrainer" target="_blank" class="text-teal-600 hover:underline">LinkedIn</a></p>
         
-        <div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10">
-          <div class="bg-white p-8 rounded-xl shadow-lg">
+        <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10">
+          <div class="bg-white p-6 rounded-xl shadow-lg">
             <h3 class="text-xl font-semibold text-teal-700 mb-5">Contact Information</h3>
             <ul class="space-y-4 text-gray-700">
               <li class="flex items-center">
@@ -481,7 +481,7 @@
               </li>
               <li class="flex items-center">
                 <i class="fab fa-linkedin-in text-teal-500 mr-3 text-lg"></i>
-                <a href="https://www.linkedin.com/in/nehamaheshwari-corporatetrainer" target="_blank" class="text-gray-700 hover:text-teal-600">linkedin.com/in/nehamaheshwari-corporatetrainer</a>
+                <a href="https://www.linkedin.com/in/nehamaheshwari-corporatetrainer" target="_blank" class="text-gray-700 hover:text-teal-600 break-words">linkedin.com/in/nehamaheshwari-corporatetrainer</a>
               </li>
               <li class="flex items-center">
                 <i class="fas fa-map-marker-alt text-teal-500 mr-3 text-lg"></i>
@@ -489,7 +489,7 @@
               </li>
             </ul>
           </div>
-          <div class="bg-white p-8 rounded-xl shadow-lg">
+          <div class="bg-white p-6 rounded-xl shadow-lg">
             <h3 class="text-xl font-semibold text-teal-700 mb-5">Training Specializations</h3>
             <ul class="space-y-3 text-gray-700">
               <li class="certification-item">Leadership</li>
