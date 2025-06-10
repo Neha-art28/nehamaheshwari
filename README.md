@@ -210,7 +210,6 @@
                 <li>Trained 70+ employees</li>
               </ul>
             </div>
-            <img src="https://via.placeholder.com/600x400/0d9488/ffffff?text=NeoSOFT+Training" alt="NeoSOFT Training" class="mt-4 rounded-lg w-full h-auto">
           </div>
           <div class="bg-white p-6 rounded-lg shadow-md">
             <div class="flex items-center mb-4">
@@ -229,7 +228,6 @@
                 <li>Contributed to measurable academic growth</li>
               </ul>
             </div>
-            <img src="https://via.placeholder.com/600x400/0d9488/ffffff?text=Teacher+Training" alt="Teacher Foundation Training" class="mt-4 rounded-lg w-full h-auto">
           </div>
         </div>
       </div>
